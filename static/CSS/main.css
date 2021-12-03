@@ -1,0 +1,52 @@
+h1{
+    text-align: auto;
+}
+
+body, html{
+    margin: 0;
+    font-family: san-serif; 
+}
+
+.content{
+    margin: 0 auto;
+    width: 400px;
+}
+
+table{
+    /* align-content: center; */
+    margin-left: center;
+    margin-right: center;
+    border-collapse: collapse;
+    /* border: 1px black; */
+    height: 30px;
+    width: 100%;
+}
+
+table{
+    border: 1px black;
+}
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+
+th{
+    height: 30px;
+}
+.form{
+    margin-top: 20px;
+    align-items: center;
+}
+
+#content{
+    width: 70px;
+}
+
+div{
+    align-content: center;
+}
+
+#content{
+    width: 100%;
+}
